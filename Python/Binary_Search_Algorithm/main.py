@@ -2,7 +2,7 @@
 start = int(input("Enter the starting number: "))
 end = int(input("Enter the ending number: "))
 
-# Ensure the start number is even
+# Ensure the start number is an even number
 if start % 2 != 0:
     start += 1
 
