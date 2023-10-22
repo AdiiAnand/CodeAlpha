@@ -10,4 +10,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](/preview.png)
+![preview img]([/preview.png](https://github.com/AdiiAnand/CodeAlpha/blob/main/Web%20Development/Landing-Page/preview.png)https://github.com/AdiiAnand/CodeAlpha/blob/main/Web%20Development/Landing-Page/preview.png)
