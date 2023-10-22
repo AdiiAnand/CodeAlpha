@@ -10,4 +10,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img]([/preview.png](https://github.com/AdiiAnand/CodeAlpha/blob/main/Web%20Development/Landing-Page/preview.png)https://github.com/AdiiAnand/CodeAlpha/blob/main/Web%20Development/Landing-Page/preview.png)
+![preview img]![preview](https://github.com/AdiiAnand/CodeAlpha/assets/35601079/fcb8d321-664a-48dd-9d6d-ffae2e37aa37)
+
