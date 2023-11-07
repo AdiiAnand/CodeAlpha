@@ -27,10 +27,15 @@
 
 ## *WEBSITE DEMO*
 
-![Screenshot (771)](https://user-images.githubusercontent.com/61280281/99399713-0844b900-290c-11eb-8d7c-1199319b4a9e.png)
+![Screenshot 2023-11-07 064516](https://github.com/AdiiAnand/CodeAlpha/assets/35601079/4afb7950-1348-4a21-9e63-62caf969ff7b)
 
-![Screenshot (772)](https://user-images.githubusercontent.com/61280281/99399731-0da20380-290c-11eb-8a59-e0a2e5f9b19f.png)
+![Screenshot 2023-11-07 064635](https://github.com/AdiiAnand/CodeAlpha/assets/35601079/32030db0-e459-412a-a9b9-acad1a09d1bf)
 
-![Screenshot (773)](https://user-images.githubusercontent.com/61280281/99399728-0d096d00-290c-11eb-9ee5-59cc8358676c.png)
+![Screenshot 2023-11-07 064655](https://github.com/AdiiAnand/CodeAlpha/assets/35601079/e22aa1a4-a4cd-4cdb-b774-5628987b22a2)
 
-![Screenshot (774)](https://user-images.githubusercontent.com/61280281/99399723-0b3fa980-290c-11eb-8728-03d974be548d.png)
+![Screenshot 2023-11-07 064709](https://github.com/AdiiAnand/CodeAlpha/assets/35601079/7e507490-10c9-4feb-98e8-ba2ed5f824d8)
+
+
+
+
+
